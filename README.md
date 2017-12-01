@@ -1,0 +1,2 @@
+# AutomationTestProject
+You have been asked to consult for Auto Trader to help them with their UI testing. They have asked for you to come up with ten tests that cover what you think would be good enough to protect the site from bugs/defects. They would like you to store your tests with the use of GitHub and use Maven to handle any dependencies that you have. Finally, they would like the link sent to the supervisor with the subject 'Auto-Trader Testing'. https://www.autotrader.co.uk
